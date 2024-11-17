@@ -1,0 +1,30 @@
+* {
+    margin: 0 ;
+    padding: 0 ;
+}
+
+
+body {
+    background-image: url(CORAÇÕES\ UNIDOS.png);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-size: cover;
+
+}
+
+.forms{
+    background-color: #db2d2d;
+    height: 225px;
+    padding: 10px;
+    border-radius: 15px;
+    position: relative;
+    left: 80%;
+}
+
+
+
+
